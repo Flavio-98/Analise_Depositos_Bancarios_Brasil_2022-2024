@@ -49,4 +49,4 @@ O modelo final apresentou um **R² (Coeficiente de Determinação) de 95,9%**, i
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
+git clone [https://github.com/Flavio-98/Analisedo_Depositos_Bancarios_Brasil_2022-2024.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
