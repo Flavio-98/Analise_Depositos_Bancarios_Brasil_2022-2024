@@ -42,8 +42,8 @@ O modelo final apresentou um **R² (Coeficiente de Determinação) de 95,9%**, i
 
 ### Visualização: Real vs Estimado
 
-![Gráfico de Regressão](<img width="1012" height="548" alt="image" src="https://github.com/user-attachments/assets/d739033e-b2dc-435a-8c28-72dcce8b8c5a" />
-)
+![Gráfico de Regressão]
+<img width="1012" height="548" alt="grafico_final" src="https://github.com/user-attachments/assets/632180d0-5db7-44a6-95aa-1df15f4c9139" />
 
 *(O modelo matemático (linha vermelha) segue de perto os dados observados (linha azul), validando a robustez da análise.)*
 
